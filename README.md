@@ -1,6 +1,6 @@
-# HaxBorn
+# HaxRenovated
 
-Cliente de escritorio para **HaxBall** con una capa visual propia (interfaz oscura, acentos neón, pantalla de apodo personalizada y ajustes integrados), empaquetado con Electron para Windows.
+Cliente de escritorio para **HaxBall** con una capa visual propia (interfaz oscura en azul eléctrico, pantalla de apodo personalizada y ajustes integrados), empaquetado con Electron para Windows.
 
 > Proyecto no oficial. No está afiliado ni respaldado por HaxBall.
 
@@ -10,9 +10,9 @@ Cliente de escritorio para **HaxBall** con una capa visual propia (interfaz oscu
 
 La app completa está en **[Releases](../../releases/latest)**:
 
-1. Descarga `HaxBorn-win64.zip`.
+1. Descarga `HaxRenovated-win64.zip`.
 2. Descomprime la carpeta completa (no ejecutes desde dentro del `.zip`).
-3. Ejecuta `HaxRenoved.exe`.
+3. Ejecuta `HaxRenovated.exe`.
 
 No requiere instalación ni permisos de administrador.
 
@@ -31,9 +31,9 @@ No requiere instalación ni permisos de administrador.
 |---|---|
 | ![Apodo](docs/screenshot-apodo.png) | ![Salas](docs/screenshot-salas.png) |
 
-| Ajustes |
-|---|
-| ![Ajustes](docs/screenshot-ajustes.png) |
+| Ajustes | |
+|---|---|
+| ![Ajustes](docs/screenshot-ajustes.png) | |
 
 ---
 
@@ -52,12 +52,12 @@ No requiere instalación ni permisos de administrador.
 
 ## Qué incluye
 
-- Interfaz rediseñada en tonos oscuros con acentos cian/azul.
+- Interfaz rediseñada en azul eléctrico y negro.
 - Pantalla de apodo personalizada.
-- Panel de ajustes propio (video, controles, audio, temas).
-- Temas premium y fondo animado.
+- Panel de ajustes propio (video, controles, audio, temas, avatar, pisos, pelotas).
+- Temas de color y fondo neón.
 - Optimizaciones de rendimiento para el cliente (flags de Chromium).
-- Registro/atajos de teclado para cambiar de pantalla y ajustes.
+- Atajos de teclado y personalización de la sala.
 
 ---
 
